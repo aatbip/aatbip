@@ -2,7 +2,7 @@ Domains of interest - Systems programming, Operating systems, Algorithms and dat
 
 Programming languages - Primary: C and Rust, Secondary: C++
 
-Tools - Valgrind, Make
+Tools - GDB, Sanitizers (ASan, TSan, UBSan), strace, perf, Valgrind, Make
 
 Systems programmer with a solid grasp of low level systems programming languages, primarily 
 focused on C and Rust (exploring), and secondary focus on C++. 
